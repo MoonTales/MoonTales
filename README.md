@@ -5,18 +5,16 @@ Hello, I'm Cohen, the lead developer at **MoonTales Studio**, an indie studio th
 🎮 **Game Development:**
 - Unreal Engine 5 (C++)
 - Roblox Studio (Lua)
-  
 💻 **Software Development:**
 - Neural Network Implementation 🤖
 - Data Structure Creation 📊
 - Database Management 🗃️
 - Data Analysis 📈
 - Debugging and Refactoring 🛠️
-- 
 ✍️ **Creative Writing:**
 - Short Stories & Character Development 📚
 - Comic Book Creation 🎨
-
+  
 Known Languages:
 - Python 🐍
 - C/C++ 🖥️
