@@ -9,15 +9,15 @@ https://devpost.com/MoonTales
 Below are the main areas I’m focusing on:
 🎮 **Game Development:**
 - **Unreal Engine 5** (C++)
--**Unity** (C#)
+- **Unity** (C#)
 - **Roblox Studio** (Lua)
-💻 **Software Development**
+- **Software Development** 💻 
 - **Neural Network Implementation** 🤖
 - **Data Structure Creation** 📊
 - **Database Management** 🗃️
 - **Data Analysis** 📈
 - **Debugging and Refactoring** 🛠️
--  **Creative Writing:** ✍️
+- **Creative Writing:** ✍️
 - **Short Stories & Character Development** 📚
 - **Comic Book Creation** 🎨
   
