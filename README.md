@@ -4,10 +4,12 @@ Hello, I'm Cohen, the lead developer at **MoonTales Studio**, an indie studio th
 
 Check out my dev post!
 https://devpost.com/MoonTales
+
 Check out my steam games!
 https://store.steampowered.com/curator/46260241-MoonTales-Studio/
+
 Below are the main areas I’m focusing on:
-🎮 **Game Development:**
+**Game Development:**
 - **Unreal Engine 5** (C++)
 - **Unity** (C#)
 - **Roblox Studio** (Lua)
