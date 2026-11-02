@@ -1,6 +1,6 @@
 🌙 Cohen | Lead Developer at **MoonTales Studio** | Student 🌙
 
-Hello, I'm Cohen, the lead developer at **MoonTales Studio**, an indie studio that brings together all my creative passions in one place. This project is a dream come true, allowing me to combine my skills and interests across various disciplines.
+Hello, I'm Cohen, the lead developer at **MoonTales Studio**, a startup indie studio that I'm working on building!
 
 Check out my dev post!
 https://devpost.com/MoonTales
@@ -19,7 +19,7 @@ Below are the main areas I’m focusing on:
 - **Database Management** 
 - **Data Analysis** 
 - **Debugging and Refactoring** 
-- **Creative Writing:** 
+- **Creative Writing** 
 - **Short Stories & Character Development** 
 - **Comic Book Creation** 
   
